@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+.background {
+    width: 1200px;
+    height: auto;
+}
+
+.intro {
+    width: 400px;
+    height: auto;
+}
+
+.title{
+    width: 400px;
+    height: auto;
+}
+
+.logo {
+    width: 400px;
+    height: auto;
+}
+
+.libhero {
+    width: 400px;
+    height: auto;
+}
+
+.cutscene {
+    width: 800px;
+    height: auto;
+}
