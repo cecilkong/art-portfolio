@@ -3,7 +3,9 @@ h1 {
 }
 
 .project:hover {
-    background-color: aqua;
+    animation-name: background-color;
+    animation-duration: 500ms;
+    background-color: #303030;
 }
 
 .background {
