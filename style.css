@@ -2,6 +2,10 @@ h1 {
     text-align: center;
 }
 
+.project:hover {
+    background-color: aqua;
+}
+
 .background {
     width: 1200px;
     height: auto;
